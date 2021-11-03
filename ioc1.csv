@@ -25,7 +25,7 @@ domain,gimazic.com
 domain,gimazic.com/ur
 domain,fipoleb.com/ur
 domain,fipoleb.com
-domain,motestiochunt.com
+domain,motestiochunt.com,testing purposes
 domain,github.com/alphagov/cdio-cyber-ioc-hunts
 ip,45.147.229.79
 ip,45.147.229.93
@@ -39,3 +39,4 @@ ip,104.194.10.26
 ip,104.194.10.57
 ip,104.194.10.201
 ip,45.153.240.72
+sha256,b9a748f37fafd00fdef3c92d6ba8ee644e8252de67c5689a1e4ef23dd99c58f0,testing purposes
